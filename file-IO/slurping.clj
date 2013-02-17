@@ -1,0 +1,1 @@
+(print (slurp "input.txt"))
